@@ -1,0 +1,39 @@
+p{
+    color: red;
+    letter-spacing: 3px;
+}
+#MobileNet{
+    letter-spacing: 2px;
+}
+.google_lens{
+    letter-spacing: 2px;
+    width: 15px;
+    height: 15px;
+}
+.img{
+    width: 250px;
+    height: 350px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.MobileNet{
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    text-align: center;
+}
+.test_image_and_result{
+    margin-top: 15px;
+    background-color:dimgray;
+    
+.copy_right_footer{
+        position: fixed;
+        color: white;
+        bottom: 0;
+        width: 100%;
+        background-color: grey;
+        line-height: 3;
+        text-align: center;
+     }border-radius: 10px;
+}
